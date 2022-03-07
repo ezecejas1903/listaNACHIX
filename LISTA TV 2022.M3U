@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/lonpkokyqttserm/z2.jpg?dl=1", EL CHAVO 24 HS| NACHIX
+http://fembed.rest:8081/24_7/EL_CHAVO5642/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjIgOTo0NTowNyBQTSZoYXNoX3ZhbHVlPW55QStBOW4wL0FLdzlHNGJwdExnOEE9PSZ2YWxpZG1pbnV0ZXM9MjIw
