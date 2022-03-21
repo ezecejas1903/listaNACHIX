@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.televisiongratishd.com/img/elchavo.png", EL CHAVO 24 HS| NACHIX
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://i.pinimg.com/736x/ad/67/d0/ad67d0e7db904cd8ed48967d87006fac--comedy-central-futurama.jpg", FUTURAMA| NACHIX
 https://cdn.jwplayer.com/manifests/nNJcj7bb.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT SPORT| NACHIX
-http://fembed.rest:8081/DEP/TNT_SPORTS_ARG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjIgMTA6MzI6MjggUE0maGFzaF92YWx1ZT1BMDNxVzNzdkpUSHRETG1vMjFBVXZBPT0mdmFsaWRtaW51dGVzPTIyMA==
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://elsolnoticias.com.ar/wp-content/uploads/2021/04/logo-schema.jpg", TELEFE| NACHIX
-http://fembed.rest:8081/regional/TELEFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjIgMTA6NDU6MDggUE0maGFzaF92YWx1ZT1VeVB5emZIRFk4RDkwWGdIMjRKMVpBPT0mdmFsaWRtaW51dGVzPTIyMA==
